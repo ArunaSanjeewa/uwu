@@ -63,14 +63,14 @@ class App extends Component {
             <img
               style={contentStyle}
               alt="logo"
-              src="${process.env.BASE_URL}/images/banner-irc.jpg"
+              src="https://raw.githubusercontent.com/ArunaSanjeewa/uwu/main/public/images/banner-irc.jpg"
             />
           </div>
           <div>
             <img
               style={contentStyle}
               alt="logo"
-              src="${process.env.PUBLIC_URL}/images/slider-main-_Gate.jpg"
+              src="https://raw.githubusercontent.com/ArunaSanjeewa/uwu/main/public/images/slider-main-_Gate.jpg"
             />
           </div>
         
@@ -78,14 +78,14 @@ class App extends Component {
             <img
               style={contentStyle}
               alt="logo"
-              src="http://www.uwu.ac.lk/wp-content/uploads/UWU-Web-banner-ARF.jpg"
+              src="https://raw.githubusercontent.com/ArunaSanjeewa/uwu/main/public/images/UWU-Web-banner-ARF.jpg"
             />
           </div>
           <div>
             <img
               style={contentStyle}
               alt="logo"
-              src="http://www.uwu.ac.lk/wp-content/uploads/slider-main-Structure.jpg"
+              src="https://raw.githubusercontent.com/ArunaSanjeewa/uwu/main/public/images/slider-main-Structure.jpg"
             />
           </div>
         </Carousel>
@@ -230,7 +230,7 @@ class App extends Component {
                     </a>
                   </div>
                   <div className="">
-				<img alt="logo" height="50px" src="images/logo_uwu.jpg"/>
+				<img alt="logo" height="50px" src="https://raw.githubusercontent.com/ArunaSanjeewa/uwu/main/public/images/logo_uwu.jpg"/>
 				</div>
         <h2>Uva Wellassa University</h2>
                   <div>
@@ -396,13 +396,13 @@ class App extends Component {
                     <img
                       className="title-icon"
                       height={70}
-                      src="images/mohe_.png"
+                      src="https://raw.githubusercontent.com/ArunaSanjeewa/uwu/main/public/images/mohe_.png"
                       alt="AFX Cloud"
                     />
                     <img
                       className="title-icon"
                       height={70}
-                      src="images/ugc_.png"
+                      src="https://raw.githubusercontent.com/ArunaSanjeewa/uwu/main/public/images/ugc_.png"
                       alt="AFX Cloud"
                     />
                     {/* <img
