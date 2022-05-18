@@ -36,7 +36,7 @@ class Navbar extends Component {
 		return (
 			<nav className="menuBar">
 				<div className="logo">
-				<img alt="logo" height="50px" src={`${process.env.PUBLIC_URL}/images/logo_uwu.jpg`} />
+				<img alt="logo" height="50px" src={`images/logo_uwu.jpg`} />
 				</div>
 				<div className="menuCon">
 					<div className="leftMenu">
