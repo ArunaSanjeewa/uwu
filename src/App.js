@@ -63,14 +63,14 @@ class App extends Component {
             <img
               style={contentStyle}
               alt="logo"
-              src="http://www.uwu.ac.lk/wp-content/uploads/banner-irc.jpg"
+              src="${process.env.BASE_URL}/images/banner-irc.jpg"
             />
           </div>
           <div>
             <img
               style={contentStyle}
               alt="logo"
-              src="http://www.uwu.ac.lk/wp-content/uploads/slider-main-_Gate.jpg"
+              src="${process.env.PUBLIC_URL}/images/slider-main-_Gate.jpg"
             />
           </div>
         
@@ -230,7 +230,7 @@ class App extends Component {
                     </a>
                   </div>
                   <div className="">
-				<img alt="logo" height="50px" src="http://www.uwu.ac.lk/wp-content/uploads/logo_uwu.jpg"/>
+				<img alt="logo" height="50px" src="images/logo_uwu.jpg"/>
 				</div>
         <h2>Uva Wellassa University</h2>
                   <div>
@@ -396,13 +396,13 @@ class App extends Component {
                     <img
                       className="title-icon"
                       height={70}
-                      src="http://www.uwu.ac.lk/wp-content/uploads/mohe_.png"
+                      src="images/mohe_.png"
                       alt="AFX Cloud"
                     />
                     <img
                       className="title-icon"
                       height={70}
-                      src="http://www.uwu.ac.lk/wp-content/uploads/ugc_.png"
+                      src="images/ugc_.png"
                       alt="AFX Cloud"
                     />
                     {/* <img

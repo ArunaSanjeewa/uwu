@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import LeftMenu from './LeftMenu'
 import RightMenu from './RightMenu'
-
 import { Drawer, Button,Carousel } from 'antd';
 
 function onChange(a, b, c) {
@@ -37,7 +36,7 @@ class Navbar extends Component {
 		return (
 			<nav className="menuBar">
 				<div className="logo">
-				<img alt="logo" height="50px" src="http://www.uwu.ac.lk/wp-content/uploads/logo_uwu.jpg"/>
+				<img alt="logo" height="50px" src={`${process.env.PUBLIC_URL}/images/logo_uwu.jpg`} />
 				</div>
 				<div className="menuCon">
 					<div className="leftMenu">
