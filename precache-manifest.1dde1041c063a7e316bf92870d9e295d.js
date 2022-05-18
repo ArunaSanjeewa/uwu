@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2774e70db7a6710c7e14240f31dd8a51",
+    "revision": "2e981a579c6e07ca78ddf851a5c30a1c",
     "url": "/uwu/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uwu/static/css/2.f7375132.chunk.css"
   },
   {
-    "revision": "25ed00fba0b1d8b09f35",
+    "revision": "cc6bfbe993dc0e60773f",
     "url": "/uwu/static/css/main.4c7be86a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uwu/static/js/2.25bbd87d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25ed00fba0b1d8b09f35",
-    "url": "/uwu/static/js/main.25199965.chunk.js"
+    "revision": "cc6bfbe993dc0e60773f",
+    "url": "/uwu/static/js/main.6dba22de.chunk.js"
   },
   {
     "revision": "63dce2d9a953597dc383",
