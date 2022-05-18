@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/uwu/static/css/main.4c7be86a.chunk.css",
-    "main.js": "/uwu/static/js/main.25199965.chunk.js",
-    "main.js.map": "/uwu/static/js/main.25199965.chunk.js.map",
+    "main.js": "/uwu/static/js/main.6dba22de.chunk.js",
+    "main.js.map": "/uwu/static/js/main.6dba22de.chunk.js.map",
     "runtime-main.js": "/uwu/static/js/runtime-main.7d180044.js",
     "runtime-main.js.map": "/uwu/static/js/runtime-main.7d180044.js.map",
     "static/css/2.f7375132.chunk.css": "/uwu/static/css/2.f7375132.chunk.css",
     "static/js/2.25bbd87d.chunk.js": "/uwu/static/js/2.25bbd87d.chunk.js",
     "static/js/2.25bbd87d.chunk.js.map": "/uwu/static/js/2.25bbd87d.chunk.js.map",
     "index.html": "/uwu/index.html",
-    "precache-manifest.7765b92f50d68e4caa0ac2cc9cfaccc9.js": "/uwu/precache-manifest.7765b92f50d68e4caa0ac2cc9cfaccc9.js",
+    "precache-manifest.1dde1041c063a7e316bf92870d9e295d.js": "/uwu/precache-manifest.1dde1041c063a7e316bf92870d9e295d.js",
     "service-worker.js": "/uwu/service-worker.js",
     "static/css/2.f7375132.chunk.css.map": "/uwu/static/css/2.f7375132.chunk.css.map",
     "static/css/main.4c7be86a.chunk.css.map": "/uwu/static/css/main.4c7be86a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f7375132.chunk.css",
     "static/js/2.25bbd87d.chunk.js",
     "static/css/main.4c7be86a.chunk.css",
-    "static/js/main.25199965.chunk.js"
+    "static/js/main.6dba22de.chunk.js"
   ]
 }
