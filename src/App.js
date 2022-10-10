@@ -52,6 +52,7 @@ const data = [
   "Best Students awards.",
   "Welfare Programme 2022.",
 ];
+
 class App extends Component {
   render() {
     const { Header, Content, Footer, Sider } = Layout;
